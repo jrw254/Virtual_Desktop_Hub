@@ -1,5 +1,7 @@
-> Created: 
+> Created: April 29 2021
+> 
 > Creted By: JRW254
+> 
 > Version: 1.0
 
 For easy use of the Virtual Desktop on a Window's machine. 
@@ -17,7 +19,7 @@ In the VDHub_Func you might need to point the script to the VirtualDesktopAccess
 Also, you will probably want to chage the coordinates of the Desktop GUI's, which is a variable located on line 161. The variable that holds the coordinates for the "VD Hub On" GUI is located within VDHub_Controls.
 
 
-::Installation::
+# Installation
 Make sure that you have the following three items in the same folder:
 1. VDHub_Controls.ahk
 2. VDHub_Func.ahk
