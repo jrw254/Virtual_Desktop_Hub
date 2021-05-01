@@ -21,6 +21,6 @@ Also, you will probably want to chage the coordinates of the Desktop GUI's, whic
 
 # Installation
 Make sure that you have the following three items in the same folder:
-1. VDHub_Controls.ahk
+1. VDHub_Controls.ahk <- This is the script you load
 2. VDHub_Func.ahk
 3. VirtualDesktopAccessor.dll
